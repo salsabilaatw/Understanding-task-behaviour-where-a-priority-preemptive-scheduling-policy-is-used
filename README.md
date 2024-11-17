@@ -13,7 +13,12 @@ Menunjukkan sejumlah skenario yang mana masing-masing dari skenario tersebut aka
 - Resistor 1k ohm
 - kabel jumper
 
+## Diagram Sistem
+<img src="Photos/system_task_diagram.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+
+
 ## Prosedur 
 1. Upload kode ke mikrokontroler STM32 Anda.
 2. Hubungkan perangkat STM32 ke komputer menggunakan St-link
-3. 
+3. Rangkai hardware seperti gambar yang ada
+4. Amati hasil yang terjadi 
