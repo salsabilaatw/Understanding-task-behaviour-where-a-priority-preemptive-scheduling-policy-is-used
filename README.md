@@ -16,6 +16,8 @@ Menunjukkan sejumlah skenario yang mana masing-masing dari skenario tersebut aka
 ## Diagram Sistem
 <img src="multimedia/system_task_diagram.png" alt="diagramtask" style="max-width: 600px; height: auto;">
 
+## Rangkaian 
+<img src="multimedia/rangkaian.jpg" alt="diagramtask" style="max-width: 600px; height: auto;">
 
 ## Prosedur 
 1. Upload kode ke mikrokontroler STM32 Anda.
