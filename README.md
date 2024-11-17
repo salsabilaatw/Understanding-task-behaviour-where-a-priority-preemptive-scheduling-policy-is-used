@@ -14,7 +14,7 @@ Menunjukkan sejumlah skenario yang mana masing-masing dari skenario tersebut aka
 - kabel jumper
 
 ## Diagram Sistem
-<img src="Photos/system_task_diagram.png" alt="diagramtask" style="max-width: 600px; height: auto;">
+<img src="multimedia/system_task_diagram.png" alt="diagramtask" style="max-width: 600px; height: auto;">
 
 
 ## Prosedur 
